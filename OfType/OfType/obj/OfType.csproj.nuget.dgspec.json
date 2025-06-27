@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/noamari/Desktop/mamas/OfType/OfType/OfType.csproj": {}
+    "/Users/noamari/Desktop/mamas2/OfType/OfType/OfType/OfType.csproj": {}
   },
   "projects": {
-    "/Users/noamari/Desktop/mamas/OfType/OfType/OfType.csproj": {
+    "/Users/noamari/Desktop/mamas2/OfType/OfType/OfType/OfType.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/noamari/Desktop/mamas/OfType/OfType/OfType.csproj",
+        "projectUniqueName": "/Users/noamari/Desktop/mamas2/OfType/OfType/OfType/OfType.csproj",
         "projectName": "OfType",
-        "projectPath": "/Users/noamari/Desktop/mamas/OfType/OfType/OfType.csproj",
+        "projectPath": "/Users/noamari/Desktop/mamas2/OfType/OfType/OfType/OfType.csproj",
         "packagesPath": "/Users/noamari/.nuget/packages/",
-        "outputPath": "/Users/noamari/Desktop/mamas/OfType/OfType/obj/",
+        "outputPath": "/Users/noamari/Desktop/mamas2/OfType/OfType/OfType/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/noamari/.nuget/NuGet/NuGet.Config"
